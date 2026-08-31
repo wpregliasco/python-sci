@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-08-30T22:19:30.438Z
-modified: 2026-08-31T02:32:17.424Z
+created: 2026-08-31T13:41:05.285Z
+modified: 2026-08-31T13:41:05.285Z
 ---
 
 ```python

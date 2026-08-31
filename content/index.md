@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-08-31T02:30:21.648Z
-modified: 2026-08-31T02:31:50.579Z
+created: 2026-08-31T13:41:05.285Z
+modified: 2026-08-31T13:41:05.285Z
 ---
 
 Este es el indexator indexatorium
