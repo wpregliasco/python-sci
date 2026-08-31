@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+publish: true
+created: 2026-08-31T02:30:21.648Z
+modified: 2026-08-31T02:31:50.579Z
 ---
 
-This iss a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Este es el indexator indexatorium
+
+- [[Python Científico]]
+- [[Publicación de la página]]
+- [[Un ejemplo de código]]
