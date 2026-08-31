@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Python Científico
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -113,7 +113,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
+      theme: hackthebox
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -162,8 +162,10 @@ plugins:
     layout:
       position: left
       priority: 50
+    options:
+      title: Contenido
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -186,7 +188,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -230,8 +232,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Instituto Balseiro: https://www.ib.edu.ar/
+        Contacto: mailto:willy.pregliasco@gmail.com
     layout:
       position: footer
       priority: 50
