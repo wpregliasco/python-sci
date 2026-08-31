@@ -8,4 +8,4 @@ MSG="${1:-Update content ($(date '+%Y-%m-%d %H:%M'))}"
  
 git add content/
 git commit -m "$MSG"
-git push origin main
+git push
