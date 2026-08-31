@@ -83,6 +83,9 @@ plugins:
     layout:
       position: right
       priority: 30
+    options:
+      maxDepth: 3
+      collapseByDefault: false
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
