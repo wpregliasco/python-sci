@@ -2,52 +2,6 @@
 publish: true
 ---
 
-```insta-toc
----
-title:
-  name:
-  level:
-  center:
-exclude:
-style:
-  listType:
-omit:
-levels:
-  min:
-  max:
----
-
-# Table of Contents
-
-- 1. Datos generales
-- 2. Objetivos
-- 3. Ejes transversales
-- 4. Contenidos y programa
-    - Bloque 1 — Arranque inmediato: programar desde el primer día
-        - Clase 1 — Primer programa: caída libre
-        - Clase 2 — Comparando trayectorias: control de flujo y datos organizados
-        - Clase 3 — Funciones y reutilización de código
-        - Clase 4 — Arrays y cálculo vectorizado: introducción a Numpy
-    - Bloque 2 — Herramientas del trabajo científico
-        - Clase 5 — Entorno profesional: Git y uv
-        - Clase 6 — Buenas prácticas y estilo
-        - Clase 7 — Uso crítico de IA para programar
-        - Clase 8 — Programación orientada a objetos aplicada
-    - Bloque 3 — Cálculo numérico y visualización
-        - Clase 9 — Numpy avanzado
-        - Clase 10 — Visualización con Matplotlib: énfasis estadístico
-        - Clase 11 — Scipy: cálculo científico avanzado
-        - Clase 12 — Entrada/salida completa y biblioteca estándar
-    - Bloque 4 — Herramientas avanzadas y proyecto integrador
-        - Clase 13 — Interpolación y ajuste de curvas
-        - Clase 14 — Exponer un cálculo: FastAPI + Streamlit
-        - Clase 15 — Programación funcional y decoradores
-        - Clase 16 — Proyecto integrador
-- 5. Bibliografía
-    - Accesible en línea
-    - Libros
-```
-
 ## 1. Datos generales
 
 |  |                                                                    |
