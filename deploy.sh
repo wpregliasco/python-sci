@@ -27,5 +27,9 @@ shift $((OPTIND - 1))
 MSG="${1:-Update content ($(date '+%Y-%m-%d %H:%M'))}"
 
 git add .
-git commit -m "$MSG"
+
+if ! git diff --cached --quiet; then
+  git commit -m "$MSG"
+fi
+
 $PUSH
