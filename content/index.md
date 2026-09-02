@@ -20,3 +20,30 @@ Esta es la página de la cátedra de `Python Científico`, materia optativa del 
 [[Programa de la materia]]
 
 ---
+
+<div id="lan-only" style="display: none;">
+
+# Recursos del Aula
+
+- [Pantalla compartida](http://192.168.0.100:8090/)
+
+---
+
+</div>
+
+<script>
+(function () {
+  const host = window.location.hostname
+  const isLan =
+    /^192\.168\./.test(host) ||
+    /^10\./.test(host) ||
+    /^172\.(1[6-9]|2[0-9]|3[01])\./.test(host) ||
+    host === "python.local" ||
+    host === "localhost"
+
+  const el = document.getElementById("lan-only")
+  if (el && isLan) {
+    el.style.display = "block"
+  }
+})()
+</script>
