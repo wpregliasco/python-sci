@@ -26,6 +26,7 @@ Esta es la página de la cátedra de `Python Científico`, materia optativa del 
 # Recursos del Aula
 
 - [Pantalla compartida](http://192.168.0.100:8090/)
+- [Jupyter Hub](http://python.local)
 
 ---
 
