@@ -408,6 +408,7 @@ _Clases 13 a 16. El estudiante incorpora herramientas de análisis avanzado, apr
 - Documentación de Streamlit: https://docs.streamlit.io
 - Documentación de uv: https://docs.astral.sh/uv/
 - Scipy Lectures: http://scipy-lectures.org
+- [Programa anterior de la materia ](obsidian://open?vault=python-sci\&file=Imgs%2F2023_Introducci%C3%B3n%20al%20lenguaje%20Python%20orientado%20a%20ingenier%C3%ADas%20y%20f%C3%ADsica%20\(PIB325\).pdf)
 
 ### Libros
 
