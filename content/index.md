@@ -3,9 +3,10 @@ publish: true
 title: Bienvenidos
 ---
 
-Esta es la página de la cátedra de `Python Científico`, materia optativa del Instituto Balseiro
+Esta es la página de la cátedra de `Python Científico`,\
+materia optativa del Instituto Balseiro
 
-![[Imgs/Pasted image 20260831141210.png|300]]
+![[Imgs/Pasted image 20260831141210.png|340]] ![[Imgs/python_true.jpeg|185]]
 
 - Docentes:
   - Mariano Gómez Berisso

@@ -1,0 +1,40 @@
+13-    - templates
+14-    - .obsidian
+15:  theme:
+16-    fontOrigin: googleFonts
+17-    cdnCaching: true
+18-    typography:
+19-      header: Schibsted Grotesk
+20-      body: Source Sans Pro
+21-      code: IBM Plex Mono
+22-    colors:
+23-      lightMode:
+24-        light: "#faf8f8"
+25-        lightgray: "#e5e5e5"
+26-        gray: "#b8b8b8"
+27-        darkgray: "#4e4e4e"
+28-        dark: "#2b2b2b"
+29-        secondary: "#284b63"
+30-        tertiary: "#84a59d"
+--
+54-    enabled: true
+55-    options:
+56:      theme:
+57-        light: github-light
+58-        dark: github-dark
+59-      keepBackground: false
+60-    order: 20
+61-  - source: "@quartz-community/obsidian-flavored-markdown"
+62-    enabled: true
+63-    options:
+64-      comments: true
+65-      highlight: true
+66-      wikilinks: true
+67-      callouts: true
+68-      mermaid: true
+69-      parseTags: true
+70-      parseArrows: true
+71-      parseBlockReferences: true
+--
+117-    enabled: true
+118-    options:
