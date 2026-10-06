@@ -151,7 +151,6 @@ _Clases 5 a 8. El estudiante incorpora las herramientas que definen el trabajo p
 - Reproducibilidad: por qué otro estudiante debe poder ejecutar tu código sin modificaciones
 
 **Integración transversal**
-hacer
 
 - A partir de esta clase, todos los proyectos del curso viven en un repositorio Git
 - El entorno de cada proyecto se gestiona con `uv`
