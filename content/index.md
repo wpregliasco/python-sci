@@ -6,12 +6,12 @@ title: Bienvenidos
 Esta es la página de la cátedra de `Python Científico`,\
 materia optativa del Instituto Balseiro.-
 
-![[Imgs/Pasted image 20260831141210.png|340]] ![[Imgs/python_true.jpeg|185]]
+![[Imgs/Clase-01_1.png|340]] ![[Imgs/python_true.jpeg|185]]
 
 - Docentes:
   - Mariano Gómez Berisso
   - Willy Pregliasco
-    ![[Imgs/macana-hermanos-macana.gif]]
+    ![[Imgs/Clase-01_1.gif]]
 
 - Clases
   - 16 clases de 4 horas (4 créditos)

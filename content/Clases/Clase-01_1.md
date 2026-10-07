@@ -6,11 +6,11 @@ publish: true
 
 ## de la ecuación al programa
 
-![bg left:50% 100%](Imgs/Clase 01_1.png)
+![bg left:50% 100%](Imgs/Clase-01_1.png)
 
 ---
 
-![bg right:35%  70%](Imgs/Clase 01_1-1.png)
+![bg right:35%  70%](Imgs/Clase-01_1-1.png)
 
 ## Admin IB
 
@@ -25,7 +25,7 @@ publish: true
 
 ---
 
-![bg right:30%  80%](Imgs/Clase 01_1.gif)
+![bg right:30%  80%](Imgs/Clase-01_1.gif)
 
 ## Admin Cátedra
 
@@ -58,7 +58,7 @@ Willy Pregliasco
 
 ---
 
-![bg fit](Imgs/Clase 01_1-2.png)
+![bg fit](Imgs/Clase-01_1-2.png)
 
 # `Python?`
 
@@ -68,13 +68,13 @@ Willy Pregliasco
 
 ## Monthy Python
 
-![](Imgs/Clase 01_1-3.png)
+![](Imgs/Clase-01_1-3.png)
 
 [Ministry of Silly Walks](https://www.youtube.com/watch?v=-Fx0qJNhy9U)
 
 ---
 
-![bg right 80%](Imgs/Clase 01_1-4.png)
+![bg right 80%](Imgs/Clase-01_1-4.png)
 
 ## Python
 
@@ -129,7 +129,7 @@ Guido van Rossum - Navidad de 1989
 
 ## Jupyter
 
-![bg right](Imgs/Clase 01_1-5.png)
+![bg right](Imgs/Clase-01_1-5.png)
 
 Celdas:
 
@@ -147,7 +147,7 @@ _y generan un `output`_
 ![bg right:20% 80%](../../Imgs/Pasted%20image%2020260911194051.png)
 -->
 
-![w:1000](Imgs/Clase 01_1-6.png)
+![w:1000](Imgs/Clase-01_1-6.png)
 
 ---
 
@@ -157,13 +157,13 @@ _y generan un `output`_
 ![bg right:20% 80%](../../Imgs/Pasted%20image%2020260911194051.png)
 -->
 
-![w:1000](Imgs/Clase 01_1-7.png)
+![w:1000](Imgs/Clase-01_1-7.png)
 
 ---
 
 ## Markdown
 
-![bg right:50% 80%](Imgs/Clase 01_1-8.png)
+![bg right:50% 80%](Imgs/Clase-01_1-8.png)
 
 - code
 - latex
@@ -176,7 +176,7 @@ _y generan un `output`_
 
 ---
 
-![bg opacity:0.3](Imgs/Clase 01_1-9.png)
+![bg opacity:0.3](Imgs/Clase-01_1-9.png)
 
 <!-- _color: black -->
 
