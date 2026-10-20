@@ -179,8 +179,6 @@ ls ~/.ssh  # known_hosts
 
 - si cambiara la clave pública del servidor aparece un cartel:
 
-<style scoped> p { color: red; } </style>
-
 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED
 
 ---
