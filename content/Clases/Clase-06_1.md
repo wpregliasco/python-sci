@@ -8,7 +8,7 @@ publish: true
 
 ### Clase 6a -La magia del Visual Studio
 
-![[Pasted image 20261027082145.png]]
+![[Imgs/Pasted image 20261027082145.png]]
 
 ---
 
@@ -101,7 +101,7 @@ En la barra lateral aparece:
 **Source Control**
 
 Desde allí podemos observar:
-![[Pasted image 20261027092612.png]]
+![[Imgs/Pasted image 20261027092612.png]]
 
 Podemos:
 
