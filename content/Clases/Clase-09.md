@@ -2,7 +2,7 @@
 publish: true
 ---
 
-(<a href="static/notebooks/clase_09.ipynb" download data-router-ignore>Descargar notebook</a>).
+(<a href="static/notebooks/clase_09.ipynb" download data-router-ignore>Descargar notebook</a>)
 
 # Clase 09 — Objetos
 
